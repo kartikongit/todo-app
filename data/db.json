@@ -1,0 +1,13 @@
+{
+  "items": [
+    { "id": 1, "name": "Apple", "checked": false },
+    { "id": 2, "name": "Banana", "checked": true },
+    { "id": 3, "name": "Orange", "checked": false },
+    { "id": 4, "name": "Grapes", "checked": true },
+    { "id": 5, "name": "strawberries", "checked": true }
+  ],
+  "anotitems": [
+    { "id": 1, "checked": false, "name": "Apples" },
+    { "id": 2, "checked": false, "name": "Milk" }
+  ]
+}
